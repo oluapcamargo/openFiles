@@ -1,0 +1,16 @@
+{
+    "beneficiary": [
+    {
+        "id": "a0213e85-4d7c-4977-b3ba-2a3a7f46a138", 
+        "cpf":"45936227006",
+        "name": "José da Silva",
+        "birth_date":"1998-01-01" 
+    },
+    {
+        "id": "a0213e85-4d7c-4977-b3ba-2a3a7f46a137", 
+        "cpf":"35934665008",
+        "name": "Roberto da Silva",
+        "birth_date":"1998-02-02"
+    }
+]
+}
